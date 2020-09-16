@@ -1,0 +1,9 @@
+.description{
+    color: white;
+}
+.description h1{
+    font-size: 150%;
+}
+.description button{
+    background-color: rgb(214, 156, 31);
+}

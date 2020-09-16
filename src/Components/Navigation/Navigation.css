@@ -1,0 +1,9 @@
+.navigation{
+    text-align: left;
+    color: white;
+}
+
+.navigation img{
+    width: 100px;
+    filter: brightness(1000%)
+}
